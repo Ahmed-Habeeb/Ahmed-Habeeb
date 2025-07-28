@@ -19,6 +19,21 @@
 - 🛠️ Led full-stack Flutter projects with CI/CD, crash reporting, and analytics.
 
 ---
+### 📦 My Flutter Packages
+
+- 📍 [`live_tracking_map`](https://pub.dev/packages/live_tracking_map) – Real-time Google Maps tracking widget with animated marker movement.
+- 📞 [`custom_phone_field`](https://pub.dev/packages/custom_phone_field) – International phone input with country picker and validation.
+
+---
+
+### 📫 Contact Me
+
+- 📧 **ahmedhabeeb1117@outlook.com** | **ahmedhabeeb1117@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/ahmedhabeeb1117)
+- 📘 [Facebook](https://fb.com/ahmedhabeeb1117)
+- 🧑‍💻 [GitHub](https://github.com/ahmed-habeeb)
+
+---
 
 ### 🏢 Work Experience
 
@@ -44,21 +59,7 @@
 
 ---
 
-### 📦 My Flutter Packages
 
-- 📍 [`live_tracking_map`](https://pub.dev/packages/live_tracking_map) – Real-time Google Maps tracking widget with animated marker movement.
-- 📞 [`custom_phone_field`](https://pub.dev/packages/custom_phone_field) – International phone input with country picker and validation.
-
----
-
-### 📫 Contact Me
-
-- 📧 **ahmedhabeeb1117@outlook.com** | **ahmedhabeeb1117@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/ahmedhabeeb1117)
-- 📘 [Facebook](https://fb.com/ahmedhabeeb1117)
-- 🧑‍💻 [GitHub](https://github.com/ahmed-habeeb)
-
----
 
 ### ⚡ Quick Facts
 
