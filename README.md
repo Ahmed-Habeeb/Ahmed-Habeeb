@@ -12,7 +12,7 @@
 
 ### 💼 Work Highlights
 
-- 🧾 Built ERP modules (vouchers, inventory) with offline-first support and RTL Arabic UX.
+- 🧾 Built ERP modules with offline-first support and RTL Arabic UX.
 - 🚘 Created "Mashrouk", a real-time ride-sharing app with WebSocket-based live tracking.
 - 💹 Developed a full-featured cryptocurrency trading app with real-time charting and bots.
 - 🎟️ Built **Tazkara2Go**, a cross-platform cinema reservation system (Android, iOS, Web).
