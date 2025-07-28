@@ -1,34 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ahmed Habeeb</h1>
-<h3 align="center">Senior Flutter Developer | Full App Architect | Based in Egypt 🇪🇬</h3>
+<h3 align="center">Senior Flutter Developer | App Architect | Open Source Contributor 🇪🇬</h3>
 
 <p align="center">
-  🚀 I build high-performance mobile and web apps with scalable architecture, real-time data, and beautiful UI/UX. <br/>
-  🔧 Passionate about Flutter, Firebase, and building production-grade software from scratch. <br/>
-  🧠 I believe in clean code, modular design, and delivering solid business value through technology.
+  🚀 I’m a Senior Flutter Developer with 5+ years of experience building scalable, high-performance mobile and web applications.<br/>
+  💡 I specialize in Dart, Flutter, Firebase, WebSocket, and modern state management solutions (Bloc, Cubit, GetX, Riverpod).<br/>
+  🧱 I build apps from scratch — from architecture and state management to API integration, UI/UX, and deployment.<br/>
+  📦 Contributor on pub.dev with production-ready open-source packages used in real-world apps.
 </p>
 
 ---
 
-### 🔥 Latest Public Project
+### 💼 Work Highlights
 
-- 🎬 **[Tazkara2Go](https://tazkara2go.com)** — A complete cinema system for ticket reservation, cafeteria sales, and trailer management.
-  - 📲 [App Store](https://apps.apple.com/ag/app/tazkara2go/id1590747142)
-  - 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.tazkara2go.tazkara2go.tazkara2go.tazkara2go&hl=ar&gl=US)
-
----
-
-### 💼 Professional Background
-
-- 👨‍💻 **Senior Flutter Developer at AlmedadSoft**
-  - Architecting & building full-stack systems using Flutter, SQL Server, and NestJS.
-- ⚙️ Formerly at **Smart Solutions** — Built a cryptocurrency trading app with real-time charts, trading bots, and secure wallet functionality.
-- 🎟️ Formerly at **Emedia** — Developed Smart TV apps, Flutter web dashboards, and cinema kiosks.
-- 📊 Formerly at **Ultimate Solutions** — Delivered ERP and accounting modules (vouchers, inventory, etc.)
-- 🚘 Formerly at **AMK LLC** — Built "Mashrouk", a ride-sharing app focused on group trips.
+- 🧾 Built ERP modules (vouchers, inventory) with offline-first support and RTL Arabic UX.
+- 🚘 Created "Mashrouk", a real-time ride-sharing app with WebSocket-based live tracking.
+- 💹 Developed a full-featured cryptocurrency trading app with real-time charting and bots.
+- 🎟️ Built **Tazkara2Go**, a cross-platform cinema reservation system (Android, iOS, Web).
+- 🛠️ Led full-stack Flutter projects with CI/CD, crash reporting, and analytics.
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -43,14 +35,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="NestJS" width="40" height="40"/>
+  <a href="https://pub.dev/packages/hive" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hive/hive-original.svg" alt="Hive" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://riverpod.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/RafaelBarbosatec/riverpod_graphql/main/assets/riverpod_logo.png" alt="Riverpod" width="40" height="40"/>
   </a>
 </p>
 
@@ -58,12 +50,12 @@
 
 ### 📦 My Flutter Packages
 
-- 📍 [`live_tracking_map`](https://pub.dev/packages/live_tracking_map) — Real-time map tracking with route drawing  
-- 📞 [`custom_phone_field`](https://pub.dev/packages/custom_phone_field) — International phone field with country selector  
+- 📍 [`live_tracking_map`](https://pub.dev/packages/live_tracking_map) – Real-time Google Maps tracking widget with animated marker movement.
+- 📞 [`custom_phone_field`](https://pub.dev/packages/custom_phone_field) – International phone input with country picker and validation.
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Contact Me
 
 - 📧 **ahmedhabeeb1117@outlook.com**
 - 💼 [LinkedIn](https://linkedin.com/in/ahmedhabeeb1117)
@@ -72,13 +64,14 @@
 
 ---
 
-### 💡 Fun Facts
+### ⚡ Quick Facts
 
-- 🎯 Built & launched multiple apps solo using Flutter & WebSockets  
-- 🧠 Comfortable with Riverpod, Bloc, Cubit, GetX, and custom architectures  
-- ⚙️ I use **Linux** as my main dev environment  
-- 📦 Love publishing open source packages to the Dart ecosystem
+- 🛠️ 5+ years in Flutter development across fintech, mobility, ERP, and entertainment domains.
+- 🧠 Strong command of state management: GetX, Bloc, Cubit, and Riverpod.
+- 🔌 Pro in WebSocket & REST API integrations.
+- 🌍 Comfortable building RTL Arabic apps with performance optimization.
+- 🚀 CI/CD ready using tools like Codemagic and GitHub Actions.
 
 ---
 
-Feel free to ⭐ any of my repositories or connect with me!
+⭐ Feel free to explore my repositories or connect with me for collaboration!
