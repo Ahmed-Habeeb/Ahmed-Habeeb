@@ -18,6 +18,29 @@
 - 🎟️ Built **Tazkara2Go**, a cross-platform cinema reservation system (Android, iOS, Web).
 - 🛠️ Led full-stack Flutter projects with CI/CD, crash reporting, and analytics.
 
+---
+
+### 🏢 Work Experience
+
+- **Ultimate Solutions Egypt**  
+  *Senior Flutter Developer* | Jun 2025 – Present  
+  ERP modules, offline-first support, and RTL Arabic financial flows using Bloc and Flutter.
+
+- **AMK LLC**  
+  *Senior Flutter Developer* | Jan 2025 – Jun 2025  
+  Created "Mashrouk", a WebSocket-based ride-sharing app with animated map tracking and custom UI components.
+
+- **Almedad Soft**  
+  *Senior Flutter Developer* | Feb 2024 – Dec 2024  
+  Built enterprise-level business apps from scratch, implemented analytics, crash reporting, and CI/CD.
+
+- **Smart Solutions**  
+  *Flutter Developer* | Jun 2022 – Feb 2024  
+  Developed a real-time crypto trading platform with charting, trading bots, and WebSocket integration.
+
+- **Emedia**  
+  *Flutter Developer* | Jan 2020 – Jun 2022  
+  Developed **Tazkara2Go** for cinema ticketing and cafeteria management. Built web dashboards and Smart TV apps.
 
 ---
 
